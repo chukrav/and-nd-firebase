@@ -1,39 +1,45 @@
 {
   "project_info": {
-    "project_number": "370380884004",
-    "firebase_url": "https://friendlychat-f7636.firebaseio.com",
-    "project_id": "friendlychat-f7636",
-    "storage_bucket": "friendlychat-f7636.appspot.com"
+    "project_number": "420114550498",
+    "firebase_url": "https://friendlychat-ae570.firebaseio.com",
+    "project_id": "friendlychat-ae570",
+    "storage_bucket": "friendlychat-ae570.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:370380884004:android:64e58dacc0483faa",
+        "mobilesdk_app_id": "1:420114550498:android:6e943011fed65dacd618bb",
         "android_client_info": {
           "package_name": "com.google.firebase.udacity.friendlychat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "370380884004-6v28kvq3d7012sgpej0cd831t6k4bs5a.apps.googleusercontent.com",
+          "client_id": "420114550498-vu30djl8dd7popjmtqt8vjc5i55u9e1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "0c60a9e69667766a0cf24c60a9980886f6f5df67"
+          }
+        },
+        {
+          "client_id": "420114550498-6qrmh7pnu6c939ts3ravh9s5c6en7n7p.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBRvAWHIAV6fZq2YrHPtR2AIHfbRnBfkE0"
+          "current_key": "AIzaSyALPb5uhTK-oFcHFOWrDwL3MTM-Mr8VVOQ"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420114550498-6qrmh7pnu6c939ts3ravh9s5c6en7n7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
